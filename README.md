@@ -1,5 +1,5 @@
+![logo](https://github.com/chetan-bist/chetan-best/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png)
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
-
 <h1 align="center">Hi 👋, I'm chetan bist</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
