@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <span>bistc3712@gmail.com</span>
 <h3 align="left">PROJECT LINKS:</h3>
-<a>https://thirtysix-studio-zmfa.vercel.app/</a>
+https://thirtysix-studio-zmfa.vercel.app/
 
 <p align="left">
 </p>
