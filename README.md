@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-bist&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-bist" /> </p>
 
-- 🌱 I’m currently learning **React.js & Next.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **bistc3712@gmail.com**
 
