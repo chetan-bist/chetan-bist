@@ -16,6 +16,7 @@ https://my-portfolio-online-07.vercel.app/
 <span>bistc3712@gmail.com</span>
 <h3 align="left">PROJECT LINKS:</h3>
 https://thirtysix-studio-zmfa.vercel.app/
+<span>Hotel website UI</span> https://vercel.com/chetans-projects-e018101d/v0-hotel-website-design
 
 <p align="left">
 </p>
