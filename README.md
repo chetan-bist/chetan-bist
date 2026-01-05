@@ -4,16 +4,18 @@
 <h3 align="center">A passionate Web developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-bist&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-bist" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **bistc3712@gmail.com**
+- 📫 How to reach me **bistc3712@gmail.com** 
 - <h3 align="left">My Portfolio</h3>
 https://chetan-bist.vercel.app/
 
 - ⚡ Fun fact **I am good at stand up comedy👀🫡**
 
 <h3 align="left">Connect with me:</h3>
-<span>bistc3712@gmail.com</span>
+- Email Id **bistc3712@gmail.com**
+- Contact Number 9847537376
+- Linkedin Id https://www.linkedin.com/in/chetan-bist-4a257329a/
 <h3 align="left">PROJECT LINKS:</h3>
 https://thirtysix-studio-zmfa.vercel.app/
 <br/><br/><span>Hotel website UI :</span> https://v0-hotel-website-design-omega.vercel.app
