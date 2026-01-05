@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bistc3712@gmail.com**
 - <h3 align="left">My Portfolio</h3>
-https://my-portfolio-online-07.vercel.app/
+https://chetan-bist.vercel.app/
 
 - ⚡ Fun fact **I am good at stand up comedy👀🫡**
 
