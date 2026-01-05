@@ -6,16 +6,14 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **bistc3712@gmail.com** 
+- 📫 How to reach me **bistc3712@gmail.com**
+- Contact Number 9847537376
+- Linkedin Id https://www.linkedin.com/in/chetan-bist-4a257329a/
 - <h3 align="left">My Portfolio</h3>
 https://chetan-bist.vercel.app/
 
-- ⚡ Fun fact **I am good at stand up comedy👀🫡**
-
 <h3 align="left">Connect with me:</h3>
-- Email Id **bistc3712@gmail.com**
-- Contact Number 9847537376
-- Linkedin Id https://www.linkedin.com/in/chetan-bist-4a257329a/
+<span>bistc3712@gmail.com</span>
 <h3 align="left">PROJECT LINKS:</h3>
 https://thirtysix-studio-zmfa.vercel.app/
 <br/><br/><span>Hotel website UI :</span> https://v0-hotel-website-design-omega.vercel.app
