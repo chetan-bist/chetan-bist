@@ -15,8 +15,7 @@ https://chetan-bist.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <span>bistc3712@gmail.com</span>
 <h3 align="left">PROJECT LINKS:</h3>
-https://thirtysix-studio-zmfa.vercel.app/
-<br/><br/><span>Hotel website UI :</span> https://v0-hotel-website-design-omega.vercel.app
+<br/><span>Hotel website UI :</span> https://v0-hotel-website-design-omega.vercel.app
 <br/><span>Bakery website :</span> https://kds-bakery-ui.vercel.app/
 
 <p align="left">
