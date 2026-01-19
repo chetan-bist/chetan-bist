@@ -17,6 +17,7 @@ https://chetan-bist.vercel.app/
 <h3 align="left">PROJECT LINKS:</h3>
 <br/><span>Hotel website UI :</span> https://v0-hotel-website-design-omega.vercel.app
 <br/><span>Bakery website :</span> https://kds-bakery-ui.vercel.app/
+<br/><span>marketfinder website :</span> https://marketfinder.vercel.app/
 
 <p align="left">
 </p>
